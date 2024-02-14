@@ -1,5 +1,5 @@
 # T5-MissingAssets
-All of the major/minor assets missing from the Black Ops Mod Tools, and some assets fixed.
+All of the major/minor assets missing from the Black Ops Mod Tools, and some assets fixed. *and some extra goodies*
 
 The Black Ops Mod Tools first came out at around 2011, between the release dates of the Annihilation and Rezurrection Packs. Unfortunately, it didn't include most of the assets that were in said packs, only including some of the assets seen on First Strike.
 
